@@ -36,6 +36,7 @@ Operate in alignment with the key components of a successful project:
 <li>Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations, and container parameters. </li>
 <li>Increase the version numbers in any examples files and the README.md to the new version this Pull Request represents. </li>
 <li>You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do do that, you may requesr the second reviewer to merge it for you.</li>
+
 ## Testing
 
 To ensure that your profile page is presented correctly and consistently, please follow these testing guidelines:
