@@ -1,3 +1,7 @@
+<h2>Environment details</h2>
+<br>
+<p>This repository will contain the code for a website that will take the form of a portfolio of the contributors profiles. The code for this website will be contained in the main branch of the repository. Contributors will use individual branches to add and/or edit content or code, using pull requests that must be verified by another contributor. Each contributor will be responsible for the content of their profile page.</p>
+
 Report bugs
 Submit feature requests
 Propose changes or improvements
