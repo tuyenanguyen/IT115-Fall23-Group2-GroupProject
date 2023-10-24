@@ -1,3 +1,4 @@
+
 <h2>Environment details</h2>
 <br>
 <p>This repository will contain the code for a website that will take the form of a portfolio of the contributors profiles. The code for this website will be contained in the main branch of the repository. Contributors will use individual branches to add and/or edit content or code, using pull requests that must be verified by another contributor. Each contributor will be responsible for the content of their profile page.</p>
@@ -37,6 +38,7 @@ Operate in alignment with the key components of a successful project:
 <li>Increase the version numbers in any examples files and the README.md to the new version this Pull Request represents. </li>
 <li>You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do do that, you may requesr the second reviewer to merge it for you.</li>
 
+
 ## Testing
 
 To ensure that your profile page is presented correctly and consistently, please follow these testing guidelines:
@@ -75,5 +77,3 @@ To ensure that your profile page is presented correctly and consistently, please
 If you encounter any issues during testing, please make the necessary adjustments and re-test. Once you're confident that your profile page meets these guidelines, you're ready to share it with the group.
 
 Thank you for contributing to our project!
-
-
