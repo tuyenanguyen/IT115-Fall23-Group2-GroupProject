@@ -1,15 +1,15 @@
-
-<h2>Environment details</h2>
+<h2>ENVIROMENT DETAILS</h2>
 <br>
-<p>This repository will contain the code for a website that will take the form of a portfolio of the contributors profiles. The code for this website will be contained in the main branch of the repository. Contributors will use individual branches to add and/or edit content or code, using pull requests that must be verified by another contributor. Each contributor will be responsible for the content of their profile page.</p>
+<p>This repository will contain the code for a website that will take the form of a portfolio of the contributor's profiles. The code for this website will be contained in the main branch of the repository. Contributors will use individual branches to add and/or edit content or code, using pull requests that must be verified by another contributor. Each contributor will be responsible for the content of their profile page.</p>
 
-Report bugs
-Submit feature requests
-Propose changes or improvements
-Set up a development environment
-Follow coding standards
-Submit pull requests
-Any other relevant information for contributors.
+<li>Report bugs.</li>
+<li>Submit feature requests.</li>
+<li>Propose changes or improvements.</li>
+<li>Set up a development environment.</li>
+<li>Follow coding standards.</li>
+<li>Submit pull requests.</li>
+<li>Any other relevant information for contributors.</li>
+
 <h2>CODE OF CONDUCT</h2>
 <h3>Our Values</h3>
 <br>
@@ -28,15 +28,16 @@ Our ultimate goal is to create a positive working environment for everyone in th
 
 Operate in alignment with the key components of a successful project:
 <br>
-<li>Ensure everyone in the team understand the assignments, plans, and strategies </li>
+<li>Ensure everyone in the team understands the assignments, plans, and strategies </li>
 <li>Complete individual tasks promptly to prevent any disruptions to fellow team members</li>
-<li>Notify project manager of any alterations or updates</li>
+<li>Notify the project manager of any alterations or updates</li>
 <li>Contribute high-quality work to secure the success of the project</li>
-<h2>Submit pull requests </h2> 
+
+<h2>Submit Pull Requests</h2> 
 <li>Ensure any install or build dependencies are removed before the end of the layer when doing a build. </li>
 <li>Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations, and container parameters. </li>
 <li>Increase the version numbers in any examples files and the README.md to the new version this Pull Request represents. </li>
-<li>You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do do that, you may requesr the second reviewer to merge it for you.</li>
+<li>You may merge the Pull Request once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.</li>
 
 
 ## Testing
@@ -53,7 +54,7 @@ To ensure that your profile page is presented correctly and consistently, please
    - Test how your profile page appears on different devices (e.g., desktop, tablet, mobile) to ensure it is responsive and user-friendly across various screen sizes.
 
 4. **Links and Navigation**:
-   - Check that any links (e.g., social media profiles, portfolio website) provided in your profile are working and directing to the correct destinations.
+   - Check that any links (e.g., social media profiles, portfolio website) provided in your profile are working and directing you to the correct destinations.
    - Test any navigation menus or buttons to ensure they lead to the intended sections or pages.
 
 5. **Grammar and Spelling**:
@@ -76,4 +77,20 @@ To ensure that your profile page is presented correctly and consistently, please
 
 If you encounter any issues during testing, please make the necessary adjustments and re-test. Once you're confident that your profile page meets these guidelines, you're ready to share it with the group.
 
-Thank you for contributing to our project!
+ <br>
+ <br>
+
+<h2>REPORT BUGS IN OUR CODE</h2> 
+
+If you notice any **_bugs_** and/or **_code errors_** in any of our web pages, please reach out to the following individuals for assistance.
+
+Report **_bugs_** to our teammates listed below via email or GitHub profiles:
+
+- Minjin Bayarkhuu: <Minjin.Bayarkhuu@seattlecolleges.edu>;  **or** https://github.com/MinjinBA
+- Tuyen Nguyen: <Tuyen.A.Nguyen@seattlecolleges.edu>; **or** https://github.com/tuyenanguyen
+- Eric McIntosh: <Eric.McIntosh@seattlecolleges.edu>; **or** https://github.com/esdmcintosh
+- Fatima Rizaee: <Fatima.Rizaee@seattlecolleges.edu>; **or** https://github.com/FatimaRe98
+- Deseray Ruiz: <Deseray.Ruiz@seattlecolleges.edu>; **or** https://github.com/DeserayRuiz1
+
+<br>
+<b>Thank you for contributing to our project!</b>
