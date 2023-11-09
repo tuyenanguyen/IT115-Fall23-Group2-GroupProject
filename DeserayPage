@@ -1,1 +1,69 @@
-DeserayPage - Need to add info
+<!doctype html>
+<html lang="en">
+    
+<head>
+<meta charset="UTF-8">
+     
+    <!-- IT 115: Portal Page
+     Author: Deseray Ruiz
+     Date:  11/8/2023 -->
+    
+    
+<title>Deseray Ruiz's Page
+     </title>
+
+<link href="css/des_main.css" rel="stylesheet" type="text/css" />
+    
+
+</head>
+
+<body>
+     
+    
+    <div class="wrapper">
+
+    
+    <h1>Deseray's Portal Page</h1>
+        
+    <img src="images/desi.jpg" alt="me" style="float: right;" />
+        
+    <h2> <strong> About Me:</strong></h2> 
+ 
+<section> <p>  Hello Everyone! <br>
+<br>
+My name is <b>Deseray</b> but I prefer to be called Des or Desi, for short. <br> 
+I am a bit rusty when it comes to coding but I am hoping to get back into the "<em>swing of things</em>". I am hoping to increase my skills set with this class while also refresh up my skills. </p>
+    
+<p>I am currently enrolled in IT 115 for the Fall 2023 quarter and this is my group project page. <br>I have some experience with HTML, CSS, Javascript, etc. from taking other IT classes at <b> North Seattle College</b> about 2 years ago. This is my first IT class coming back to campus after lifestyle changes.</p>
+
+<p>In the future, my plan is to complete my degree in Application Development and continue with my IT education at a nearby university. </p> 
+     
+ <h2> <strong> Life Outside of School:</strong></h2> 
+    
+<b>During my free time, I like to do the following things <em>(if I have time):</em></b>
+   <ul>
+        <li>Hiking with my children and boyfriend.</li>
+        <li>Taking pictures of nature for my Instagram followers.</li>
+        <li>Watching anime shows with my oldest daughter.
+        <li>Watching the same 4 Disney movies with my youngest daughter.</li>
+        <li>Playing video games with my family.</li>
+       <li>Bing watching movies and/or TV shows. <em> (Korean dramas are    my favorite!)</em></li>
+        <li>Reading different genres of books.<em> (Currently obsessed with my Kindle)</em></li>
+         <li>Listening to music and just vibing. </li>
+     </ul> 
+    
+     <b> But my favorite thing to do is spend time with my daughters, <em>Lilly </em> & <em>Evelyn</em> and my boyfriend,<em> Andrew</em>.</b> </section>
+   
+<br>
+  
+        <hr>
+<br>
+<footer> <h3> <b>“I think books are like people, in the sense that they’ll turn up in your life when you most need them.” </b> <br><em>― Emma Thompson</em></h3> 
+              </footer>
+   
+ 
+        
+       
+    </div> 
+</body>
+</html>
