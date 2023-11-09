@@ -1,0 +1,45 @@
+/*
+   Group Project Page 
+   IT 115 - Fall 2023
+   Author: Deseray Ruiz
+   Date:   11/8/2023
+
+   Filename: des_main.css
+
+
+*/
+
+/* Section Styles */
+
+
+body
+{ background : #FDB9C8;
+  background : rgb(253, 185, 200); 
+}
+
+div.wrapper { background-color : #F9DFE5;
+     background-color : rgb(249, 223, 229);
+     width: 940px; 
+     margin: 0px auto;
+    padding: 20px;
+}
+
+img {padding: 15px;}
+
+h1 {color : #CA5570;
+   color : rgb(202, 85, 112);
+   font-size: 40px;
+   text-align: center; 
+   }
+
+h2 {color: #CA5570;
+    color: rgb(202, 85, 112); 
+    text-decoration: underline;
+    }
+h4 {text-align: center;}
+
+nav {padding: 0px;
+    text-align: left;
+}
+
+footer {text-align: center;}
