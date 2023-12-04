@@ -7,19 +7,20 @@
 
 /* Section Styles */
 
-header {position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
- background: #FDB9C8;
-background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(12,9,9,1) 32%, rgba(253,185,200,0.9745971058464535) 68%); 
+header 
+      {position: fixed;
+       top: 0;
+       left: 0;
+       width: 100%;
+       background: #fdb9c8;
+       background: radial-gradient(circle , rgba(0 , 0 , 0 , 1) 0% , rgba(12 , 9 , 9 , 1) 32% , rgba(253 , 185 , 200 , 0.9745971058464535) 68%); 
 }
 
-body {background: #FDB9C8;
+body {background: #fdb9c8;
   background: rgb(253, 185, 200); 
 }
 
-div.wrapper {background-color: #F9DFE5;
+div.wrapper {background-color:#F9DFE5;
      background-color: rgb(249, 223, 229);
      width: 940px; 
      margin: 0px auto;
@@ -68,5 +69,5 @@ nav a {text-decoration: none;
     color: white;
 }
 
-nav a:hover {background: #CA5570;
+nav a:hover {background: #ca5570;
 }
